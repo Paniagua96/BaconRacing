@@ -43,12 +43,6 @@ public class Respawn : MonoBehaviour
 
     }
 
-    //public int controlSpawn(int nSpawn)
-    //{
-    //   
-
-    //    return nSpawn;
-    //}
-
+   
     
 }
