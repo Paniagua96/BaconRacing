@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Blue_Selection.cs" />
      <Compile Include="Assets\Scripts\Hover_image_change.cs" />
+     <Compile Include="Assets\Scripts\MenuManager.cs" />
      <Compile Include="Assets\Scripts\Real_Menu_manager.cs" />
      <Compile Include="Assets\Scripts\TakeOut_title.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
