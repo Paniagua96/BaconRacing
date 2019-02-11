@@ -36,11 +36,8 @@ public class Respawn : MonoBehaviour
 
     public void Spawn(int numPlayer,int numSpawn)
     {
-       
-
         player[numPlayer].transform.position = new Vector3(spawnLocations[numSpawn].transform.position.x, spawnLocations[numSpawn].transform.position.y, spawnLocations[numSpawn].transform.position.z);
         player[numPlayer].transform.eulerAngles = new Vector3(spawnLocations[numSpawn].transform.eulerAngles.x, spawnLocations[numSpawn].transform.eulerAngles.y, spawnLocations[numSpawn].transform.eulerAngles.z);
-
     }
 
    

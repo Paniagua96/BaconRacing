@@ -4,9 +4,11 @@ using System.Collections;
 public class pruebaMovCubo : MonoBehaviour
 {
     public Countdown countdown;
+    public ItemControl itemControl;
 
 
     public float speed;
+    public int numRandom;
 
     private Rigidbody rb;
 
@@ -28,6 +30,11 @@ public class pruebaMovCubo : MonoBehaviour
 
             rb.AddForce(movement * speed);
         }
-      
+         if (Input.GetKey(KeyCode.M))
+        {
+            itemControl.ChargeItem(numRandom);
+        }
+
+
     }
 }
