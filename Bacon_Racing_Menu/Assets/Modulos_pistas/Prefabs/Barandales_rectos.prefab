@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8758026970211229774}
   - component: {fileID: 8758026970210132622}
   m_Layer: 0
-  m_Name: Barandales
+  m_Name: Barandales_rectos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -57,7 +57,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 23ff5ad07fce6a749b963f67afe9cb05, type: 3}
+  - {fileID: 2100000, guid: 1ac9b6f536d462448924b87521b52c86, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
