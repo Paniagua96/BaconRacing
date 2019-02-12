@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 7d18b6b1faef7f34ba183c54a5c9ca50
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bandera de meta
+    100002: Barandal
+    100004: Barda Grande
+    100006: Bariil
+    100008: BoteDeBasura
+    100010: Cactus
+    100012: Faro
+    100014: Guacal
+    100016: Jardinera
+    100018: Jardinera (2)
+    100020: Letrero
+    100022: Maguey G
+    100024: Maguey M
+    100026: Mesa1
+    100028: Mesh
+    100030: //RootNode
+    100032: pistequila
+    100034: Postes de Luzq
+    100036: Props
+    100038: PropsAlan
+    100040: Puerta1
+    100042: Puerta2
+    100044: Puerta3
+    100046: Puesto1
+    100048: Resipiente
+    100050: Silla
+    100052: Stant1 (2)
+    100054: Stant2
+    100056: Stant3
+    100058: Ventana1
+    100060: Ventana2
+    100062: Ventana3
+    100064: Ventana4
+    100066: VentanasYPuertas
+    400000: Bandera de meta
+    400002: Barandal
+    400004: Barda Grande
+    400006: Bariil
+    400008: BoteDeBasura
+    400010: Cactus
+    400012: Faro
+    400014: Guacal
+    400016: Jardinera
+    400018: Jardinera (2)
+    400020: Letrero
+    400022: Maguey G
+    400024: Maguey M
+    400026: Mesa1
+    400028: Mesh
+    400030: //RootNode
+    400032: pistequila
+    400034: Postes de Luzq
+    400036: Props
+    400038: PropsAlan
+    400040: Puerta1
+    400042: Puerta2
+    400044: Puerta3
+    400046: Puesto1
+    400048: Resipiente
+    400050: Silla
+    400052: Stant1 (2)
+    400054: Stant2
+    400056: Stant3
+    400058: Ventana1
+    400060: Ventana2
+    400062: Ventana3
+    400064: Ventana4
+    400066: VentanasYPuertas
+    2100000: Default
+    2300000: Bandera de meta
+    2300002: Barandal
+    2300004: Barda Grande
+    2300006: Bariil
+    2300008: BoteDeBasura
+    2300010: Cactus
+    2300012: Faro
+    2300014: Guacal
+    2300016: Jardinera
+    2300018: Jardinera (2)
+    2300020: Letrero
+    2300022: Maguey G
+    2300024: Maguey M
+    2300026: Mesa1
+    2300028: Mesh
+    2300030: Postes de Luzq
+    2300032: Puerta1
+    2300034: Puerta2
+    2300036: Puerta3
+    2300038: Puesto1
+    2300040: Resipiente
+    2300042: Silla
+    2300044: Stant1 (2)
+    2300046: Stant2
+    2300048: Stant3
+    2300050: Ventana1
+    2300052: Ventana2
+    2300054: Ventana3
+    2300056: Ventana4
+    3300000: Bandera de meta
+    3300002: Barandal
+    3300004: Barda Grande
+    3300006: Bariil
+    3300008: BoteDeBasura
+    3300010: Cactus
+    3300012: Faro
+    3300014: Guacal
+    3300016: Jardinera
+    3300018: Jardinera (2)
+    3300020: Letrero
+    3300022: Maguey G
+    3300024: Maguey M
+    3300026: Mesa1
+    3300028: Mesh
+    3300030: Postes de Luzq
+    3300032: Puerta1
+    3300034: Puerta2
+    3300036: Puerta3
+    3300038: Puesto1
+    3300040: Resipiente
+    3300042: Silla
+    3300044: Stant1 (2)
+    3300046: Stant2
+    3300048: Stant3
+    3300050: Ventana1
+    3300052: Ventana2
+    3300054: Ventana3
+    3300056: Ventana4
+    4300000: Puerta1
+    4300002: Puerta2
+    4300004: Puerta3
+    4300006: Ventana1
+    4300008: Ventana2
+    4300010: Ventana3
+    4300012: Ventana4
+    4300014: Bandera de meta
+    4300016: Barda Grande
+    4300018: Stant1 (2)
+    4300020: Stant2
+    4300022: Stant3
+    4300024: Postes de Luzq
+    4300026: Cactus
+    4300028: Jardinera
+    4300030: Barandal
+    4300032: BoteDeBasura
+    4300034: Guacal
+    4300036: Mesa1
+    4300038: Puesto1
+    4300040: Jardinera (2)
+    4300042: Letrero
+    4300044: Resipiente
+    4300046: Silla
+    4300048: Maguey G
+    4300050: Maguey M
+    4300052: Bariil
+    4300054: Faro
+    4300056: Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -65,6 +65,10 @@
     <Compile Include="Assets\Scripts\BarrilRespawn.cs" />
     <Compile Include="Assets\Scripts\Countdown.cs" />
     <Compile Include="Assets\Scripts\CreatorObjects.cs" />
+    <Compile Include="Assets\Scripts\Interfaz\Blue_Selection.cs" />
+    <Compile Include="Assets\Scripts\Interfaz\Hover_image_change.cs" />
+    <Compile Include="Assets\Scripts\Interfaz\Real_Menu_manager.cs" />
+    <Compile Include="Assets\Scripts\Interfaz\TakeOut_title.cs" />
     <Compile Include="Assets\Scripts\ItemControl.cs" />
     <Compile Include="Assets\Scripts\Respawn.cs" />
     <Compile Include="Assets\Scripts\SetSpawns.cs" />
