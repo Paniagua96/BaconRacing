@@ -25,6 +25,7 @@ GameObject:
   - component: {fileID: 114024622648229624}
   - component: {fileID: 114436346558901640}
   - component: {fileID: 54613135526993826}
+  - component: {fileID: 114160077649407396}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -132,6 +133,19 @@ MonoBehaviour:
   spawnLocations:
   - {fileID: 0}
   - {fileID: 0}
+--- !u!114 &114160077649407396
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1487919279662144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6368940ccd2c16b4eb9725b4e42c3004, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item1TocinoPista: {fileID: 0}
+  item3ManchaPantallaEnemigo: {fileID: 0}
 --- !u!114 &114436346558901640
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -145,4 +159,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   countdown: {fileID: 114437761877565106, guid: 0ad16893cfd01134c9148bada2efd024,
     type: 2}
+  itemControl: {fileID: 114160077649407396}
   speed: 10
+  numRandom: 0

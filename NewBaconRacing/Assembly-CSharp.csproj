@@ -62,22 +62,28 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Others\pruebaMovCubo.cs" />
+    <Compile Include="Assets\Scripts\BarrilRespawn.cs" />
     <Compile Include="Assets\Scripts\Countdown.cs" />
     <Compile Include="Assets\Scripts\CreatorObjects.cs" />
+    <Compile Include="Assets\Scripts\Interfaz\Blue_Selection.cs" />
+    <Compile Include="Assets\Scripts\Interfaz\Hover_image_change.cs" />
+    <Compile Include="Assets\Scripts\Interfaz\Real_Menu_manager.cs" />
+    <Compile Include="Assets\Scripts\Interfaz\TakeOut_title.cs" />
+    <Compile Include="Assets\Scripts\ItemControl.cs" />
     <Compile Include="Assets\Scripts\Respawn.cs" />
     <Compile Include="Assets\Scripts\SetSpawns.cs" />
     <Compile Include="Assets\Scripts\UI.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/pania/Documents/UnityProjects/NewBaconRacing/NewBaconRacing/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/pania/Documents/BaconRacing/NewBaconRacing/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/pania/Documents/UnityProjects/NewBaconRacing/NewBaconRacing/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/pania/Documents/BaconRacing/NewBaconRacing/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/pania/Documents/UnityProjects/NewBaconRacing/NewBaconRacing/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/pania/Documents/BaconRacing/NewBaconRacing/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/pania/Documents/UnityProjects/NewBaconRacing/NewBaconRacing/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/pania/Documents/BaconRacing/NewBaconRacing/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
