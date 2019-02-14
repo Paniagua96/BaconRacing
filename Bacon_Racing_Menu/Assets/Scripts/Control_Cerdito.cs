@@ -78,6 +78,43 @@ public class Control_Cerdito : MonoBehaviour
         //if(Girar==0){
             //Cerdito.transform.Rotate(0,0,0);
         //}
-        Debug.Log(Girar);
+        //Debug.Log(Girar);
+    }
+    void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log(collision.gameObject.name);
+        if(collision.gameObject.name=="Modulo-Inicio-Pendiente")
+        {
+            Torque=3500;
+            MaxSpeed=160;
+            Debug.Log(CoefAccelaration);
+        }
+        if(collision.gameObject.name=="Modulo_Recto (14)")
+        {
+            CoefAccelaration=25;
+        }
+         if(collision.gameObject.name=="Modulo_Recto (15)")
+        {
+            CoefAccelaration=25;
+        }
+         if(collision.gameObject.name=="Modulo_Recto (16)")
+        {
+            CoefAccelaration=25;
+        }
+         if(collision.gameObject.name=="Modulo_Recto (17)")
+        {
+            CoefAccelaration=25;
+        }
+         if(collision.gameObject.name=="Modulo_Recto (25)")
+        {
+            CoefAccelaration=25;
+        }
+        
+        else
+        {
+            Torque=1750;
+            MaxSpeed=80;
+        }
     }
 }
+

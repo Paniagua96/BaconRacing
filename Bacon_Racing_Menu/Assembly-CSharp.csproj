@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Blue_Selection.cs" />
+     <Compile Include="Assets\Scripts\ContadorVueltas.cs" />
      <Compile Include="Assets\Scripts\Control_Cerdito.cs" />
      <Compile Include="Assets\Scripts\Controlado_Cerdo_IA.cs" />
      <Compile Include="Assets\Scripts\Countdown.cs" />
