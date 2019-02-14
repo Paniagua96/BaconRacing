@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Pista_DiaMuertos.unity
+- path: Assets/Scenes/Pista_China.unity
   isLoaded: 1
   isActive: 1
