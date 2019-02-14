@@ -67,12 +67,12 @@ public class Control_Cerdito : MonoBehaviour
         if(Speed>2)
         {
             if(Girar<0){
-                Cerdito.transform.Rotate(0,-2f,0);
+                Cerdito.transform.Rotate(0,-1.75f,0);
                 
             }
 
             if(Girar>0){
-                Cerdito.transform.Rotate(0,2f,0);
+                Cerdito.transform.Rotate(0,1.75f,0);
             }
         }
         //if(Girar==0){
